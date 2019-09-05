@@ -1,0 +1,36 @@
+Estimation summary
+
+Good - 3796 - 0.3796%
+
+Bad - 469 - 0.0469%
+
+Neutral - 5735 - 0.5735%
+
+Proportion
+
+Good - 844 - 0.0844%
+
+Bad - 209 - 0.0209%
+
+Neutral - 7356 - 0.7356%
+
+Undefined - 1591 - 0.1591%
+
+Pos/neg summary
+
+Good - 5677 - 0.5677%
+
+Bad - 383 - 0.0383%
+
+Neutral - 3940 - 0.394%
+
+Proportion
+
+Good - 5605 - 0.5605%
+
+Bad - 1298 - 0.1298%
+
+Neutral - 2167 - 0.2167%
+
+Undefined - 930 - 0.093%
+
